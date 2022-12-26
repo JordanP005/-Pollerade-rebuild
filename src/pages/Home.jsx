@@ -98,10 +98,12 @@ function Home() {
           <div className="info-div">
             <h1>Leave your marketing to us</h1>
             <p>
-              Your oline presence is our priority. We always strive to put your
-              business out in the most professional and effective way possible.
-              Our team of dedicated and passionate agents are on the job 24/7
-              working towards taking your digital marketing to the next level
+              Your online presence is of our top priority as we work hard to
+              make your business digitally relevant at all times. We always
+              strive to put your business out in the most professional and
+              effective way possible. Our team of dedicated and passionate
+              agents are on the job 24/7 working towards taking your digital
+              marketing to the next level.
             </p>
           </div>
         </section>
