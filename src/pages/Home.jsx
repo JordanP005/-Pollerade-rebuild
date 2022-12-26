@@ -22,7 +22,7 @@ function Home() {
           </Link>
           {window.innerWidth <= 820 ? (
             <img
-              src={hamState ? "images/close.svg" : "images/hamburger.png"}
+              src={hamState ? "images/close.svg" : "images/icons8-menu.svg"}
               className="ham"
               onClick={toggleHam}
               alt=""
